@@ -1,0 +1,39 @@
+<?xml version="1.0" ?><company>
+    <department name="Engineering">
+        <employee id="101">
+            <first_name>Hassan</first_name>
+            <last_name>Shahzad</last_name>
+            <age>25</age>
+            <position>Software Engineer</position>
+            <salary>120000</salary>
+            <location>Lahore</location>
+        </employee>
+        <employee id="69">
+            <first_name>Ibad</first_name>
+            <last_name>Adrees</last_name>
+            <age>24</age>
+            <position>Data Analyst</position>
+            <salary>95000</salary>
+            <location>Karachi</location>
+        </employee>
+    <employee id="303"><first_name>Bilal</first_name><last_name>Ahmed</last_name><age>26</age><position>DevOps Engineer</position><salary>105000</salary><location>Islamabad</location></employee></department>
+
+    <department name="Human Resources">
+        <employee id="201">
+            <first_name>Shahzad</first_name>
+            <last_name>Khan</last_name>
+            <age>28</age>
+            <position>HR Manager</position>
+            <salary>110000</salary>
+            <location>Islamabad</location>
+        </employee>
+        <employee id="202">
+            <first_name>Ali</first_name>
+            <last_name>Raza</last_name>
+            <age>30</age>
+            <position>Recruiter</position>
+            <salary>80000</salary>
+            <location>Lahore</location>
+        </employee>
+    </department>
+</company>
