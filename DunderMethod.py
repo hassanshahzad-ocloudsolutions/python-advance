@@ -27,7 +27,6 @@ class Vector:
         return Vector(self.__x*other.__x , self.__y*other.__y)
     
 
-    
     def __truediv__(self,other):
         return Vector(self.__x//other.__x , self.__y//other.__y)
     

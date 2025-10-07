@@ -1,8 +1,7 @@
 Title: The Last Train 🚂
-
 The clock struck midnight as Amina raced across the empty platform. 
 The last train to her hometown was already whistling, ready to leave. Her heart pounded louder than the wheels on the 
 tracks. She clutched the letter in her hand — an apology written too late. Just as the doors began to close, a
 kind stranger held them open. She stumbled inside, breathless and trembling. Through the window, city lights 
 faded into darkness. Amina finally unfolded the letter, whispered a prayer, and smiled. Sometimes, all it takes
-to change everything is catching the very last train.
+to change everything is catching the very last train. Python Programming is the Best

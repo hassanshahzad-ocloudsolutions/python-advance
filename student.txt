@@ -1,0 +1,7 @@
+Ali,50,80
+Hassan,100,90
+Ibad,80,60
+Faiz,95,90
+Azeem,100,80
+Shahab,60,60
+Bilal,80,80
