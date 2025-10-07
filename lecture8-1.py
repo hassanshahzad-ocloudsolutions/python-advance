@@ -1,6 +1,14 @@
 
 '''Database programming means writing Python code to store, retrieve, update, and delete data from a database — 
-usually using SQL (Structured Query Language).'''
+usually using SQL (Structured Query Language).
+
+Connect --	Establish connection to DB
+Cursor --	Execute SQL commands
+Execute --	Run INSERT, SELECT, UPDATE, DELETE
+Commit --	Save changes to disk
+Close --	Free resources
+
+'''
 
 #we can work on our own offline database as well as online present databases.
 
