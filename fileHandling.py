@@ -24,7 +24,7 @@ if mode is set a+ then the new content is appended
 # with open("text.txt", "r") as file:
 #     content = file.read()
 #     print(content)
-count=0
+
 with open("text.txt","r") as f:
     while True:
         line = f.readline()
@@ -33,4 +33,4 @@ with open("text.txt","r") as f:
         print(line)
         count+=1
 
-print(count)
+print(count) # if read() called then 1 else readline() called then depends on number of lines
